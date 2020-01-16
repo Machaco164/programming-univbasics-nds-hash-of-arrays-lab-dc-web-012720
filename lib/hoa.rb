@@ -10,4 +10,5 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   
  puts BASE_HOA[:third_earthers].push = "Dave"
+ BASE_HOA
 end
