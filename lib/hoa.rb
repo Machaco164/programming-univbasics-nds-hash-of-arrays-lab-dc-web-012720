@@ -9,5 +9,5 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   
- puts BASE_HOA[:third_earthers]
+ puts BASE_HOA[:third_earthers].push = "Dave"
 end
